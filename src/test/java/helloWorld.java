@@ -6,6 +6,7 @@ public class helloWorld {
 
         System.out.println("Hos geldin Mehmet hocam");
         System.out.println("baska bisi hocam");
+        System.out.println("her sey yolunda mi/ ");
 
     }
 
