@@ -5,6 +5,7 @@ public class helloWorld {
        System.out.println("Saban's sout2");
 
         System.out.println("Hos geldin Mehmet hocam");
+        System.out.println("baska bisi hocam");
 
     }
 
